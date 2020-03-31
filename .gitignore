@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/ParseStarterProject/build/intermediates/classes/
+/ParseStarterProject/build/intermediates/classes/debug/
+/ParseStarterProject/build/intermediates/dex/
+/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/
+/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/
+/ParseStarterProject/build/intermediates/incremental/
+/ParseStarterProject/build/intermediates/manifests/
+/ParseStarterProject/build/intermediates/pre-dexed/
+/ParseStarterProject/build/intermediates/res/
+/ParseStarterProject/build/intermediates/symbols/
+/ParseStarterProject/build/outputs/
